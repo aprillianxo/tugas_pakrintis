@@ -1,0 +1,10 @@
+# Compiled C binaries
+*.exe
+*.out
+*~
+# VSCode
+.vscode/
+# Python
+__pycache__/
+venv/
+*.pyc
